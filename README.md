@@ -6,4 +6,4 @@ Screen Shot:
 
 ![alt text](https://github.com/shmanoj16/DataGenie/blob/master/image.png)
 
-![alt text](https://github.com/shmanoj16/DataGenie/blob/master/Data_Genie_Quick_overview.mp4)
+![Video Demo](https://github.com/shmanoj16/DataGenie/blob/master/Data_Genie_Quick_overview.mp4)
