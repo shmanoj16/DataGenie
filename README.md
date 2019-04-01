@@ -6,6 +6,8 @@ Screen Shot:
 
 ![alt text](https://github.com/shmanoj16/DataGenie/blob/master/image.png)
 
+#Youtube Demo Video: https://youtu.be/TlUMBvdPbGo 
+
 ![Video Demo](https://github.com/shmanoj16/DataGenie/blob/master/Data_Genie_Quick_overview.mp4)
 
-Youtube Video: https://youtu.be/TlUMBvdPbGo 
+
