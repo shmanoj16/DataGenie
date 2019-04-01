@@ -8,4 +8,4 @@ Screen Shot:
 
 ![Video Demo](https://github.com/shmanoj16/DataGenie/blob/master/Data_Genie_Quick_overview.mp4)
 
-![Youtube Video](https://youtu.be/TlUMBvdPbGo)
+Youtube Video: https://youtu.be/TlUMBvdPbGo 
